@@ -22,7 +22,7 @@ The **Pizza Delivery System** project aims to revolutionize the pizza ordering e
 
 ## Key Features
 - **RestAPIs:** We utilize RESTful APIs for seamless communication between the client and server, ensuring efficient data exchange.
-- **Layered Architecture:** Our system is built upon a well-defined layered architecture that promotes modularity, scalability, and maintainability, enhancing separation of concerns.
+- **Layered Architecture:** Our system is built upon a well-defined layered architecture that promotes modularity and maintainability, enhancing separation of concerns.
 - **Security:** User credentials are stored securely with password encryption using Bcrypt, guaranteeing the utmost protection against unauthorized access.
 - **Model Mapper:** To facilitate data transfer and conversion between various data models, we employ a robust Model Mapper, simplifying complex transformations.
 - **Exception Handling:** Our application employs a comprehensive exception handling mechanism, ensuring robust error management and detailed logging for improved debugging and auditing.
