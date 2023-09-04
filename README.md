@@ -18,7 +18,7 @@
 - **Database:** MySQL
 
 ## Objective
-The **Pizza Delivery System** project aims to revolutionize the pizza ordering experience by automating the process, simplifying order placement, and enhancing administrative tasks. Our goal is to provide customers with a seamless and efficient way to order and receive pizza deliveries while ensuring the security and integrity of their data.
+The **Pizza Ordering System** project aims to revolutionize the pizza ordering experience by automating the process, simplifying order placement, and enhancing administrative tasks. Our goal is to provide customers with a seamless and efficient way to order and receive pizza deliveries while ensuring the security and integrity of their data.
 
 ## Key Features
 - **RestAPIs:** We utilize RESTful APIs for seamless communication between the client and server, ensuring efficient data exchange.
