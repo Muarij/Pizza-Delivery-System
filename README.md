@@ -56,6 +56,12 @@ To get started with the Pizza Delivery System, follow these steps:
      ```
 
 
+## UI
+
+![image](https://github.com/Muarij/Pizza-Delivery-System/assets/11350003/2fe86b0f-b135-46eb-9564-b115d86aeba0)
+
+
+
 ## Contributing
 We welcome contributions from the community to enhance the Pizza Ordering System. To contribute, follow these steps:
 
