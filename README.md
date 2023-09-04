@@ -1,4 +1,4 @@
-## Project Title: Pizza Ordering System**
+## Project Title: Pizza Ordering System
 
 ## Technologies Used
 - **BackEnd:** SpringBoot
