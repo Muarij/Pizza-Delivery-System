@@ -1,7 +1,3 @@
-Certainly, here's an enhanced version of your `README.md` with additional details to make it look more professional:
-
-# Pizza-Delivery-System
-
 ## Project Title
 **Pizza Ordering System**
 
