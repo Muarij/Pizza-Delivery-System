@@ -57,7 +57,7 @@ To get started with the Pizza Delivery System, follow these steps:
 
 
 ## Contributing
-We welcome contributions from the community to enhance the Pizza Delivery System. To contribute, follow these steps:
+We welcome contributions from the community to enhance the Pizza Ordering System. To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
