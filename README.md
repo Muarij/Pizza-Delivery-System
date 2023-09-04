@@ -6,6 +6,18 @@
 - **FrontEnd:** ReactJs
 - **Database:** MySQL
 
+## Project Members
+- **MUARIJ MASOODI - 230340120123**
+- **SULABH GANGWAR - 230340120206**
+- **SURAJ WAYKAR - 230340120231**
+- **MUHAMMAD HUZEFA - 230340120081**
+- **ZAHID MASOOM - 230340120236**
+
+## Technologies Used
+- **BackEnd:** SpringBoot
+- **FrontEnd:** ReactJs
+- **Database:** MySQL
+
 ## Objective
 The **Pizza Delivery System** project aims to revolutionize the pizza ordering experience by automating the process, simplifying order placement, and enhancing administrative tasks. Our goal is to provide customers with a seamless and efficient way to order and receive pizza deliveries while ensuring the security and integrity of their data.
 
@@ -45,8 +57,7 @@ To get started with the Pizza Delivery System, follow these steps:
      ```
 
 ## Usage
-Provide detailed instructions on how to use your Pizza Delivery System, including user registration, order placement, and any additional functionalities. Include screenshots and examples to make it user-friendly.
-
+You can add
 ## Contributing
 We welcome contributions from the community to enhance the Pizza Delivery System. To contribute, follow these steps:
 
