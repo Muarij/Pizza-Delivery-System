@@ -55,8 +55,7 @@ To get started with the Pizza Delivery System, follow these steps:
      yarn start
      ```
 
-## Usage
-You can add
+
 ## Contributing
 We welcome contributions from the community to enhance the Pizza Delivery System. To contribute, follow these steps:
 
